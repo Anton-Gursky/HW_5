@@ -1,6 +1,6 @@
 package Task_32.models;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 @Table (name = "city")

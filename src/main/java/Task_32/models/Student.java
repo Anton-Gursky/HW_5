@@ -1,6 +1,6 @@
 package Task_32.models;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import java.util.List;
 
 @Entity
